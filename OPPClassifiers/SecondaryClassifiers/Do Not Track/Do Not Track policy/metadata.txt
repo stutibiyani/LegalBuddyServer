@@ -1,0 +1,4 @@
+Unique Labels Count : 4
+Unique Labels : {'Mentioned, but unclear if honored': 7, 'Not honored': 58, 'Honored': 2, 'Other': 3}
+Selected Text in Json count : 70
+Entire Clause count : 0

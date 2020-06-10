@@ -1,0 +1,4 @@
+Unique Labels Count : 6
+Unique Labels : {'Unspecified': 372, 'None': 66, 'User participation': 37, 'Opt-in': 22, 'Other': 11, 'Opt-out': 12}
+Selected Text in Json count : 324
+Entire Clause count : 196

@@ -1,0 +1,4 @@
+Unique Labels Count : 5
+Unique Labels : {'Unspecified': 288, 'User with account': 268, 'not-selected': 139, 'Other': 26, 'User without account': 8}
+Selected Text in Json count : 441
+Entire Clause count : 288

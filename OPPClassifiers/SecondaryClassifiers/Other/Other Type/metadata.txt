@@ -1,0 +1,4 @@
+Unique Labels Count : 4
+Unique Labels : {'Introductory/Generic': 828, 'Practice not covered': 677, 'Privacy contact information': 495, 'Other': 578}
+Selected Text in Json count : 2575
+Entire Clause count : 3

@@ -1,0 +1,4 @@
+Unique Labels Count : 9
+Unique Labels : {'Edit information': 369, 'Other': 66, 'Unspecified': 44, 'View': 115, 'Delete account (full)': 33, 'Delete account (partial)': 73, 'None': 9, 'Deactivate account': 19, 'Export': 1}
+Selected Text in Json count : 722
+Entire Clause count : 7

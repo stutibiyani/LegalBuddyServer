@@ -1,0 +1,4 @@
+Unique Labels Count : 5
+Unique Labels : {'Citizens from other countries': 99, 'Californians': 154, 'Children': 357, 'Other': 31, 'Europeans': 42}
+Selected Text in Json count : 682
+Entire Clause count : 1

@@ -1,0 +1,4 @@
+Unique Labels Count : 4
+Unique Labels : {'Implicit': 2226, 'Explicit': 1854, 'Unspecified': 2359, 'not-selected': 2259}
+Selected Text in Json count : 5972
+Entire Clause count : 2726

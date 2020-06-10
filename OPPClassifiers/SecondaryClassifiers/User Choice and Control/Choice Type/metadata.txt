@@ -1,0 +1,4 @@
+Unique Labels Count : 9
+Unique Labels : {'Opt-out via contacting company': 271, 'Dont use service/feature': 142, 'Opt-out link': 301, 'Browser/device privacy controls': 250, 'Unspecified': 186, 'Opt-in': 249, 'First-party privacy controls': 151, 'Other': 129, 'Third-party privacy controls': 86}
+Selected Text in Json count : 1751
+Entire Clause count : 14

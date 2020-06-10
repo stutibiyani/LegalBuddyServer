@@ -1,0 +1,4 @@
+Unique Labels Count : 5
+Unique Labels : {'Unspecified': 166, 'Other': 24, 'Indefinitely': 28, 'Limited': 101, 'Stated Period': 41}
+Selected Text in Json count : 336
+Entire Clause count : 24

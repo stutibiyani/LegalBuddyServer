@@ -1,0 +1,4 @@
+Unique Labels Count : 8
+Unique Labels : {'Perform service': 94, 'Unspecified': 126, 'Service operation and security': 38, 'Legal requirement': 45, 'Analytics/Research': 20, 'Other': 27, 'Advertising': 4, 'Marketing': 6}
+Selected Text in Json count : 292
+Entire Clause count : 68

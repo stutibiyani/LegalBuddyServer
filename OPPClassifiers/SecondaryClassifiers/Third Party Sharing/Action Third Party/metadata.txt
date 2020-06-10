@@ -1,0 +1,4 @@
+Unique Labels Count : 6
+Unique Labels : {'Unspecified': 352, 'Receive/Shared with': 3446, 'Collect on first party website/app': 423, 'Other': 330, 'See': 182, 'Track on first party website/app': 445}
+Selected Text in Json count : 5056
+Entire Clause count : 122

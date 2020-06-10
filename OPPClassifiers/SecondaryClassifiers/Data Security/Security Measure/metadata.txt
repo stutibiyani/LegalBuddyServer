@@ -1,0 +1,4 @@
+Unique Labels Count : 10
+Unique Labels : {'Data access limitation': 116, 'Generic': 303, 'Privacy/Security program': 52, 'Other': 114, 'Unspecified': 12, 'Secure data transfer': 103, 'Secure user authentication': 32, 'Privacy review/audit': 33, 'Secure data storage': 42, 'Privacy training': 7}
+Selected Text in Json count : 814
+Entire Clause count : 0

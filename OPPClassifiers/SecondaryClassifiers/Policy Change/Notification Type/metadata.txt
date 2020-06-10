@@ -1,0 +1,4 @@
+Unique Labels Count : 6
+Unique Labels : {'Personal notice': 100, 'Unspecified': 92, 'General notice on website': 110, 'Other': 27, 'General notice in privacy policy': 170, 'No notification': 21}
+Selected Text in Json count : 488
+Entire Clause count : 32

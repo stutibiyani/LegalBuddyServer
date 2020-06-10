@@ -1,0 +1,4 @@
+Unique Labels Count : 5
+Unique Labels : {'Unspecified': 257, 'Privacy relevant change': 212, 'In case of merger or acquisition': 15, 'Non-privacy relevant change': 22, 'Other': 14}
+Selected Text in Json count : 461
+Entire Clause count : 59

@@ -1,0 +1,4 @@
+Unique Labels Count : 5
+Unique Labels : {'First party use': 636, 'Third party use': 134, 'Unspecified': 405, 'First party collection': 291, 'Third party sharing/collection': 299}
+Selected Text in Json count : 1552
+Entire Clause count : 213

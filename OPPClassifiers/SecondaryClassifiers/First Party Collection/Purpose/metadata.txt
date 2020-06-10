@@ -1,0 +1,4 @@
+Unique Labels Count : 11
+Unique Labels : {'Unspecified': 2508, 'Personalization/Customization': 689, 'Advertising': 616, 'Analytics/Research': 1189, 'Basic service/feature': 1272, 'Additional service/feature': 909, 'Marketing': 613, 'Service Operation and Security': 545, 'Other': 248, 'Legal requirement': 100, 'Merger/Acquisition': 9}
+Selected Text in Json count : 7241
+Entire Clause count : 1457

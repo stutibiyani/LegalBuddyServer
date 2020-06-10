@@ -1,0 +1,4 @@
+Unique Labels Count : 2
+Unique Labels : {'Does': 4750, 'Does Not': 428}
+Selected Text in Json count : 3943
+Entire Clause count : 1235

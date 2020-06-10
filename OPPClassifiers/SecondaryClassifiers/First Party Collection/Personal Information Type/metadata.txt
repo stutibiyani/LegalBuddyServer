@@ -1,0 +1,4 @@
+Unique Labels Count : 16
+Unique Labels : {'IP address and device IDs': 590, 'Computer information': 443, 'User online activities': 765, 'Contact': 995, 'Location': 391, 'Unspecified': 1831, 'Cookies and tracking elements': 1092, 'Generic personal information': 1119, 'Demographic': 362, 'User profile': 166, 'Financial': 330, 'Social media data': 77, 'Other': 300, 'Personal identifier': 86, 'Health': 87, 'Survey data': 64}
+Selected Text in Json count : 8160
+Entire Clause count : 538

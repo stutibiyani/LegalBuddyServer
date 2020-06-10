@@ -1,0 +1,4 @@
+Unique Labels Count : 6
+Unique Labels : {'User account data': 294, 'Other data about user': 49, 'Unspecified': 238, 'Profile data': 70, 'Other': 49, 'Transactional data': 29}
+Selected Text in Json count : 620
+Entire Clause count : 109
